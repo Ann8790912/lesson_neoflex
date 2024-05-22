@@ -8,7 +8,7 @@ appVersion: "1.0"
 service:
   type: NodePort
   port: 8080
-  nodePort: 30000
+  nodePort: 30001
 
 serviceAccount:
   create: false
